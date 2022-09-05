@@ -1,12 +1,12 @@
 # 🏤산학협력SW프로젝트 Homework🏬
 
 ---
-**Participants**
-> 🐱‍💻[syw2045](http://github.com/syw2045)
-> 💻[KiKi-Daehaksaeng](https://github.com/KiKi-Daehaksaeng)
-> 🎱[6Whistle](https://github.com/6Whistle)
-> ⚾[dlwnsgud8406](https://github.com/dlwnsgud8406)
-> 👕[angrymusic](https://github.com/angrymusic)
+**Contributors**
+> 🐱‍💻[syw2045](http://github.com/syw2045)  
+> 💻[KiKi-Daehaksaeng](https://github.com/KiKi-Daehaksaeng)  
+> 🎱[6Whistle](https://github.com/6Whistle)  
+> ⚾[dlwnsgud8406](https://github.com/dlwnsgud8406)  
+> 👕[angrymusic](https://github.com/angrymusic)  
 
 ---
 **Purpose**
