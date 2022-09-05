@@ -2,16 +2,16 @@
 
 ---
 
-**Participants**
-[syw2045](http://github.com/syw2045)
-[KiKi-Daehaksaeng](https://github.com/KiKi-Daehaksaeng)
-[6Whistle](https://github.com/6Whistle)
-[dlwnsgud8406](https://github.com/dlwnsgud8406)
-[angrymusic](https://github.com/angrymusic)
+**Participants**  
+[syw2045](http://github.com/syw2045)  
+[KiKi-Daehaksaeng](https://github.com/KiKi-Daehaksaeng)  
+[6Whistle](https://github.com/6Whistle)  
+[dlwnsgud8406](https://github.com/dlwnsgud8406)  
+[angrymusic](https://github.com/angrymusic)  
 
 ---
-**Purpose**
-프로젝트를 진행하기 앞서 프로젝트에 대해 필요한 지식을
+**Purpose**  
+프로젝트를 진행하기 앞서 프로젝트에 대해 필요한 지식을  
 이해함과 동시에 응용 및 적용하는 방법을 익히기 위해 과제를 수행함.
 
 ---
