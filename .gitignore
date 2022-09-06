@@ -36,5 +36,8 @@
 *.app
 
 *.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 
+.vcxproj
 # End of https://www.toptal.com/developers/gitignore/api/c++
